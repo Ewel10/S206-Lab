@@ -2,7 +2,7 @@ package aula_inatel.star_wars;
 
 import com.intuit.karate.junit5.Karate;
 
-class UsersRunner {
+class SwRunner {
     
     @Karate.Test
     Karate testStarWars() {
